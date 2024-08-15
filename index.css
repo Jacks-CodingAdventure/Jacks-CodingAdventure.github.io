@@ -51,6 +51,7 @@ font-style: italic;
     width: 98%;
     height: 150px;
     border-radius: 2px;
+    color: black;
 }
 #box1 {
     background-color: rgba(167, 100, 255, 0.400);
