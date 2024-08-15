@@ -33,3 +33,6 @@ font-family: "Poppins", sans-serif;
 font-weight: 700;
 font-style: italic;
 }
+.center-alignment {
+    text-align: center;
+}
