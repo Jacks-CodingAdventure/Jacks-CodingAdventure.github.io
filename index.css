@@ -39,6 +39,6 @@ font-style: italic;
 
 .border {
     background-color: rgb(18, 141, 65);
-    height: 100px;
+    height: 1px;
     border:5px;
 }
