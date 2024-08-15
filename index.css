@@ -38,6 +38,7 @@ font-style: italic;
 }
 
 .border {
+    background-color: transparent;
     border-color: rgb(0, 0, 0);
     border: 10px;
 }
