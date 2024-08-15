@@ -19,7 +19,7 @@ footer {
     height: 60px;
     color: white;
     text-align: right;
-    
+    margin-right: 20px;
 }
 .poppins-regular {
 font-family: "Poppins", sans-serif;
