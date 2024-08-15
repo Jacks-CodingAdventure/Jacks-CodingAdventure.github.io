@@ -44,11 +44,11 @@ font-style: italic;
 .container {
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     flex-direction: column;
 }
 .box {
-    width: 90%;
+    width: 98%;
     height: 60px;
     border-radius: 5px;
 }
