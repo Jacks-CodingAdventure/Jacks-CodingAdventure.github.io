@@ -36,3 +36,7 @@ font-style: italic;
 .center-align {
     text-align: center;
 }
+.boarder {
+    background-color: darkslategray;
+    height: 20px;
+}
