@@ -45,6 +45,7 @@ font-style: italic;
     display: flex;
     align-items: center;
     flex-direction: column;
+    border: 10px solid black;
 }
 .box {
     width: 98%;
