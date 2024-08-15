@@ -43,7 +43,8 @@ font-style: italic;
 }
 .container {
     display: flex;
-    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
     flex-direction: column;
 }
 .box {
