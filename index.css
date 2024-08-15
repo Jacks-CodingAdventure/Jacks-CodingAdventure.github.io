@@ -44,23 +44,22 @@ font-style: italic;
 .container {
     display: flex;
     align-items: center;
-    justify-content: space-around;
     flex-direction: column;
 }
 .box {
     width: 98%;
     height: 60px;
-    border-radius: 5px;
+    border-radius: 2px;
 }
 #box1 {
-    background-color: rgb(167, 100, 255);
+    background-color: rgba(167, 100, 255, 0.400);
 }
 #box2 {
-    background-color: rgb(239, 255, 100);
+    background-color: rgba(239, 255, 100, 0.400);
 }
 #box3 {
-    background-color: rgb(255, 100, 100);
+    background-color: rgba(255, 100, 100, 0.400);
 }
 #box4 {
-    background-color: rgb(100, 255, 100);
+    background-color: rgba(100, 255, 100, 0.400);
 }
