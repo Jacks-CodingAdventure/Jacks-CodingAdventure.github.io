@@ -49,9 +49,8 @@ font-style: italic;
 }
 .box {
     width: 98%;
-    height: 150px;
+    height: 100px;
     border-radius: 2px;
-    background-color: blue;
 }
 #box1 {
     background-color: rgba(167, 100, 255, 0.400);
