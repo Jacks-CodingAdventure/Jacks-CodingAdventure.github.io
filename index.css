@@ -60,7 +60,7 @@ font-style: italic;
     flex-direction: column;
     border: 10px solid black;
     height: 90vh;
-    row-gap: space-evenly;
+    row-gap: 5px;
 }
 .box {
     width: 98%;
