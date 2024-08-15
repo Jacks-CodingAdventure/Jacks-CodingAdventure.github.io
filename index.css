@@ -44,10 +44,10 @@ font-style: italic;
 .container {
     display: flex;
     flex-direction: column;
-    justify-content: center, space-evenly;
+    justify-content: center;
 }
 .box {
-    width: 99%;
+    width: 10%;
     height: 60px;
     border-radius: 5px;
 }
