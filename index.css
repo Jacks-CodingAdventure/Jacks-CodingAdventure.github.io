@@ -14,7 +14,6 @@ body {
     font-style: normal;
     width: 80%;
     margin: auto;
-    background-color: aquamarine;
 }
 footer {
     background-color: rgba(47, 79, 79, 0.699);
@@ -81,7 +80,4 @@ font-style: italic;
 }
 #box4 {
     background-color: rgba(100, 255, 100, 0.400);
-}
-#body-margin {
-    
-}
+} 
