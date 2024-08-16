@@ -9,9 +9,9 @@
     min-height: 100vh;
 }
 .sidebar {
-    flex: 1 1 0;
+    flex: 1, 1, 0;
     max-width: 300px;
-    padding: 2rem 1rem;
+    padding: 2rem, 1rem;
     background-color: #2e3047;
 }
 .sidebar h3 {
@@ -21,7 +21,7 @@
     margin-bottom: 0.5em;
 }
 .sidebar .menu {
-    margin: 0 -1rem;
+    margin: 0, -1rem;
 }
 .sidebar .menu .menu-item {
     display: block;
