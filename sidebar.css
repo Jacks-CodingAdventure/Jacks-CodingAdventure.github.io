@@ -8,3 +8,9 @@
     display: flex;
     min-height: 100vh;
 }
+.sidebar {
+    flex: 1 1 0;
+    max-width: 300px;
+    padding: 2rem 1rem;
+    background-color: #2e3047;
+}
