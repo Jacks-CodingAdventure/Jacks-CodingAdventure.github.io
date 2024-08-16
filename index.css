@@ -79,6 +79,7 @@ font-style: italic;
 #box4 {
     background-color: rgba(100, 255, 100, 0.400);
 }
-#container1 {
-    margin: 80%;
+#body-margin {
+    width: 90%;
+    margin: auto;
 }
