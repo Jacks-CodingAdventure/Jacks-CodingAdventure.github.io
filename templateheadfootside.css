@@ -47,4 +47,8 @@
 .sidebar.active .top .logo {
     opacity: 1;
 }
+.top .logo {
+    font-size: 2rem;
+    text-align: center;
+}
 /*End of sidebar code*/
