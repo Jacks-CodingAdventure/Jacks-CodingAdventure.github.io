@@ -72,4 +72,17 @@
     background-color: white;
     color: rgb(39, 38, 77);
 }
+.sidebar ul li a i {
+    min-width: 50px;
+    text-align: center;
+    height: 50px;
+    border-radius: 12px;
+    line-height: 50px;
+}
+.sidebar .nav-item {
+    opacity: 0;
+}
+.sidebar.active .nav-item {
+    opacity: 1;
+}
 /*End of sidebar code*/
