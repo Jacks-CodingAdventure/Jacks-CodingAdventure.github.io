@@ -100,4 +100,7 @@
 .sidebar ul li:hover .tooltip {
     opacity: 1;
 }
+.sidebar.active ul li .tooltip {
+    display: none;
+}
 /*End of sidebar code*/
