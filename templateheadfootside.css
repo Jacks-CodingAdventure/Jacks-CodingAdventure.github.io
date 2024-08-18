@@ -6,7 +6,7 @@
     font-family: "Poppins", sans-serif;
 }
 .sidebar {
-    position: fixed;
+    position: absolute;
     top: 0;
     left: 0;
     height: 100vh;
@@ -21,5 +21,15 @@
 }
 .sidebar.active {
     width: 250px;
+}
+.sidebar #btn {
+    position: absolute;
+    color: white;
+    top: .4rem;
+    left: 50%;
+    font-size: 1.2rem;
+    line-height: 50px;
+    transform: translateX(-50%);
+    cursor: pointer;
 }
 /*End of sidebar code*/
