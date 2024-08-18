@@ -32,4 +32,7 @@
     transform: translateX(-50%);
     cursor: pointer;
 }
+.sidebar.active #btn {
+    left: 90%;
+}
 /*End of sidebar code*/
