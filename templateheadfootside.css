@@ -51,4 +51,12 @@
     font-size: 2rem;
     margin-right: 5px;
 }
+.sidebar ul li {
+    position: relative;
+    list-style-type: none;
+    height: 50px;
+    width: 90%;
+    margin: 0.8rem auto;
+    line-height: 50px;
+}
 /*End of sidebar code*/
