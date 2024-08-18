@@ -15,10 +15,11 @@
     background-color: rgba(47, 79, 79, 0.699);
 }
 .sidebar h3 {
-    color: #707793;
-    font-size: 0.75rem;
+    color: #a6b8fd;
+    font-size: 2rem;
     text-transform: uppercase;
     margin-bottom: 0.5em;
+    text-align: center;
 }
 .sidebar .menu {
     margin: 0, -1rem;
