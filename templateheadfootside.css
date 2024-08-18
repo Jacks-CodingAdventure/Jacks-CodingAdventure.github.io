@@ -20,7 +20,7 @@
     width: calc(100% - 320px);
 }
 .sidebar ~ .main-content {
-    margin-left: 82px;
+    margin-left: 85px;
     transition: all 0.5s ease;
 }
 .sidebar.active {
