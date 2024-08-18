@@ -80,9 +80,9 @@
     line-height: 50px;
 }
 .sidebar .nav-item {
-    opacity: 0;
+    display: none;
 }
 .sidebar.active .nav-item {
-    opacity: 1;
+    display: inline-block;
 }
 /*End of sidebar code*/
