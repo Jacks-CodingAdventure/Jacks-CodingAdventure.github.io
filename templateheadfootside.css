@@ -59,4 +59,11 @@
     margin: 0.8rem auto;
     line-height: 50px;
 }
+.sidebar ul li a {
+    color: white;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    border-radius: 0.8rem;
+}
 /*End of sidebar code*/
