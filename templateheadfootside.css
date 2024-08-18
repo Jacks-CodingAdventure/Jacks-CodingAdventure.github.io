@@ -1,0 +1,22 @@
+/* Start of sidebar code*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 80px;
+    background-color: rgb(39, 38, 77);
+    padding: 0.4rem 0.8rem;
+    transition: all 0.5s ease;
+}
+.sidebar.active ~ .main-content {
+    
+}
+
+/*End of sidebar code*/

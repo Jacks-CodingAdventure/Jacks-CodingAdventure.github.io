@@ -13,6 +13,7 @@
     </style>
   </head>
 <body>
+<!--Start of sidebar code-->
     <div class="sidebar">
         <div class="top">
             <div class="logo">
@@ -60,28 +61,34 @@
             </li>
         </ul>
     </div>
-
-  <div id="body-margin">
-          <h1>JavaScript 30 Challenge</h1>
-    <div>
-        <section class="center-align">
-            <p>
-                Template text
-            </p>
-        </section>
+<!--End of sidebar code-->
+<div class="main-content">
+    <div class="container">
+        <div id="body-margin">
+            <h1>JavaScript 30 Challenge</h1>
+            <div>
+                <section class="center-align">
+                    <p>
+                        Template text
+                    </p>
+                </section>
+            </div>
+            <footer>
+            <p>Footer template text</p>
+            </footer>
+        </div>
     </div>
-        <footer>
-          <p>Footer template text</p>
-        </footer>
-    </div>
+</div>
 </body>
 
 <script>
+//start of sidebar script
     let btn = document.querySelector('#btn')
     let sidebar = document.querySelector('.sidebar')
     btn.onclick = function () {
         sidebar.classList.toggle('active');
     };
+//end of sidebar script
 </script>
 
 </html>
