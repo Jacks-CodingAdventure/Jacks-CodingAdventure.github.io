@@ -19,6 +19,9 @@
     margin-left: 250px;
     width: calc(100% - 250px);
 }
+.sidebar ~ .main-content {
+    margin-left: 80px;
+}
 .sidebar.active {
     width: 250px;
 }
