@@ -68,4 +68,8 @@
     text-decoration: none;
     border-radius: 0.8rem;
 }
+.sidebar ul li a:hover {
+    background-color: white;
+    color: rgb(39, 38, 77);
+}
 /*End of sidebar code*/
