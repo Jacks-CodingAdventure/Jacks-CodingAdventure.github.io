@@ -7,9 +7,10 @@
     margin-top: 0%;
     text-align: center;
 }
-.header .maintitle {
+.header p {
     font-family: "Bungee Outline";
-    height: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 /*End of header code*/
