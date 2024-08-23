@@ -5,10 +5,10 @@
     height: 70px;
     color: white;
     margin-top: 0%;
+    text-align: center;
 }
 .title {
     font-family: "Bungee Outline";
-    text-align: center;
 }
 
 /*End of header code*/
