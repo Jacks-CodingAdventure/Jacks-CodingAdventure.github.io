@@ -6,7 +6,9 @@
     color: white;
     margin-top: 0%;
 }
-
+.title {
+    font-family: 'bungee-outline-regular';
+}
 
 /*End of header code*/
 /* Start of sidebar code*/
