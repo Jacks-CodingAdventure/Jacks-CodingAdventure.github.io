@@ -1,5 +1,6 @@
 /* Start of header code*/
 header {
+    position: fixed;
     background-color:  rgb(39, 38, 77);
     width: 100%;
     height: 70px;
