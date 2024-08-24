@@ -72,6 +72,9 @@ header img {
     left: 35%;
     top: 1px;
 }
+.sidebar ul {
+    top: 10px;
+}
 .sidebar ul li {
     position: relative;
     list-style-type: none;
