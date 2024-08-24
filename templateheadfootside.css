@@ -11,7 +11,9 @@ header {
 header img {
     height: 65px;
 }
-
+header ~ .main-content {
+    margin-top: 10%;
+}
 /*End of header code*/
 /* Start of sidebar code*/
 * {
