@@ -30,7 +30,7 @@ header img {
     transition: all 0.5s ease;
 }
 .sidebar.active ~ .main-content {
-    margin-left: 320px;
+    margin-left: 325px;
     width: calc(100% - 320px);
 }
 .sidebar ~ .main-content {
