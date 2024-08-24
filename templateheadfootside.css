@@ -126,6 +126,9 @@ header img {
 .sidebar.active ul li .tooltip {
     display: none;
 }
+.main-content {
+    top: 72px;
+}
 /*End of sidebar code*/
 /*Start of footer code*/
 footer {
