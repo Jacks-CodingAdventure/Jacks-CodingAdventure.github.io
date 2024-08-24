@@ -69,7 +69,7 @@ header img {
     position: absolute;
     height: 130px;
     width: 130px;   
-    align-items: center;
+    margin: 0.8rem;
 }
 .sidebar ul li {
     position: relative;
