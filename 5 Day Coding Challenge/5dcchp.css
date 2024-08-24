@@ -12,52 +12,5 @@ body {
     font-size: 18px;
     font-weight: 400;
     font-style: normal;
-    width: 80%;
-    margin: auto;
 }
-footer {
-    background-color: rgba(47, 79, 79, 0.699);
-    width: 100%;
-    height: 70px;
-    color: white;
-    
-}
-footer p {
-    text-align: right;
-    margin-right: 20px;
-    padding-top: 20px;
-    padding-bottom: 20px;
-}
-.center-align {
-    text-align: center;
-}
-.border {
-    background-color: transparent;
-    border-color: rgb(0, 0, 0);
-    border: 10px;
-}
-.container {
-    display: flex;
-    align-items: center;
-    flex-direction: column;
-    border: 10px solid black;
-    height: 90vh;
-    row-gap: 5px;
-}
-.box {
-    width: 98%;
-    height: 100px;
-    border-radius: 2px;
-}
-#box1 {
-    background-color: rgba(167, 100, 255, 0.400);
-}
-#box2 {
-    background-color: rgba(239, 255, 100, 0.400);
-}
-#box3 {
-    background-color: rgba(255, 100, 100, 0.400);
-}
-#box4 {
-    background-color: rgba(100, 255, 100, 0.400);
-} 
+
