@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>JavaScript 30 Challenge</title>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+        <link href="../templateheadfootside.css" rel="stylesheet" type="text/css" />
+        <link href="JS30hp.css" rel="stylesheet" type="text/css" />
+        <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+        <link href="https://fonts.googleapis.com/css2?family=Bungee&display=swap" rel="stylesheet">
+    <style>
+
+    </style>
+  </head>
+<body>
+<!--Start of Header code-->
+    <header>    
+        <div>
+            <img src="../Images/Logo Title Long.png">
+        </div>
+    </header>
+<!--End of header code-->
+<!--Start of sidebar code-->
+    <div class="sidebar">
+        <div class="top">
+            <div class="logo">
+                
+            </div>
+            <i class="bx bx-menu" id="btn"></i>
+        </div>
+        <ul>
+            <li>
+                <a href="../index.html">
+                    <i class="bx bx-home"></i>
+                    <span class="nav-item">Home</span>
+                </a>
+                <span class="tooltip">Home</span>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="bx bx-code-alt"></i>
+                    <span class="nav-item">Projects</span>
+                </a>
+                <span class="tooltip">Projects</span>
+            </li>
+            <li>
+                <a href="../5 Day Coding Challenge/5dcchp.html">
+                    <i class="bx bx-code-alt"></i>
+                    <span class="nav-item">5 Day Coding Challenge</span>
+                </a>
+                <span class="tooltip">5 Day Coding Challenge</span>
+            </li>
+            <li>
+                <a href="../JS30/JS30hp.html">
+                    <i class="bx bx-code-curly"></i>
+                    <span class="nav-item">JavaScript 30 Challenge</span>
+                </a>
+                <span class="tooltip">JavaScript 30 Challenge</span>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="bx bx-game"></i>
+                    <span class="nav-item">Games</span>
+                </a>
+                <span class="tooltip">Games</span>
+            </li>
+            <li>
+                <a href="#">
+                    <i class="bx bx-spreadsheet"></i>
+                    <span class="nav-item">Contact</span>
+                </a>
+                <span class="tooltip">Contact</span>
+            </li>
+        </ul>
+    </div>
+<!--End of sidebar code-->
+<div class="main-content">
+    <div class="container">
+        <div>
+            <h1>JavaScript 30 Challenge</h1>
+            <div>
+                <section>
+                    <p>
+                        Template text
+                    </p>
+                </section>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <p>Footer template text</p>
+</footer>
+</body>
+
+<script>
+//start of sidebar script
+    let btn = document.querySelector('#btn')
+    let sidebar = document.querySelector('.sidebar')
+    btn.onclick = function () {
+        sidebar.classList.toggle('active');
+    };
+//end of sidebar script
+</script>
+
+</html>
