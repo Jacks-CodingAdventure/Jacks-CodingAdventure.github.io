@@ -75,7 +75,7 @@ header img {
 .sidebar ul li {
     position: relative;
     list-style-type: none;
-    height: 50px;
+    height: 80px;
     width: 90%;
     margin: 0.8rem auto;
 }
