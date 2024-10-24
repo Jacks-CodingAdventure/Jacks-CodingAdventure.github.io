@@ -112,7 +112,7 @@ header img {
 .sidebar ul li .tooltip {
     position: absolute;
     left: 125px;
-    top: 50%;
+    top: 32%;
     transform: translate(-50%, -50%);
     box-shadow: 0 0.5rem 0.8rem rgba(0, 0, 0, 0.2);
     border-radius: .6rem;
